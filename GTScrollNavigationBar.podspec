@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DMGTScrollNavigationBar"
-  s.version      = "0.11"
+  s.version      = "0.2"
   s.summary      = "A scrollable UINavigationBar that follows a UIScrollView"
   s.homepage     = "https://github.com/luugiathuy/GTScrollNavigationBar"
   s.license      = 'BSD'
